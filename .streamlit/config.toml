@@ -11,3 +11,7 @@ enableCORS = false
 [general]
 pageTitle = "Baby Taste Builder"
 pageIcon = "🎈"
+[general]
+showSidebarNavigation = false
+pageTitle = "Baby Taste Builder"
+pageIcon = "thumbnail.png"
