@@ -48,3 +48,15 @@ git clone https://github.com/Vishalkumaran2007/baby-taste-builder-2.git
 cd baby-taste-builder-2
 pip install -r requirements.txt
 streamlit run baby_taste_builder.py
+
+
+🧠 Author
+Built By
+VISHALKUMARAN V
+SRI HARI P
+NIVASH B
+MOKHANA GEETAN K
+
+📬 Contact
+Have feedback or suggestions?
+📧 Email: vishalkumaranv05@gmail.com
