@@ -4,10 +4,8 @@ backgroundColor = "#0e1117"
 secondaryBackgroundColor = "#262730"
 textColor = "#FAFAFA"
 font = "sans serif"
-
 [server]
 enableCORS = false
-
 [general]
 pageTitle = "Baby Taste Builder"
 pageIcon = "🎈"
