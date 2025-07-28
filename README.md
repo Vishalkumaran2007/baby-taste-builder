@@ -16,7 +16,7 @@
 
 ## 🚀 Live Demo
 
-🔗 Try the App: [https://baby-taste-builder.streamlit.app/]
+🔗 Try the App: https://baby-taste-builder.streamlit.app
 
 📦 Source Code: [GitHub Repo](https://github.com/Vishalkumaran2007/baby-taste-builder-2/tree/main)
 
